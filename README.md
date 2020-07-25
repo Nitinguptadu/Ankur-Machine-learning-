@@ -1,0 +1,2 @@
+# Ankur-Machine-learning-
+Client: M17(https://m17.asia/en/product/17media/) a streaming platform. DataLink: ​ Client_data.zip The attached data here is generated from the live-streaming platform. Analyze the data to come up with the top 20% streamers. Using these top 20% streamers as good streamers create a classification model which can classify whether any streamer is good streamer or not. Evaluation Metric​ : F1-Score Classification Report (Using sklearn.metrics.classification_report) is also required
